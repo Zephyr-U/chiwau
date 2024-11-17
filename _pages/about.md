@@ -17,7 +17,9 @@ What was my recent project?
 ======
 I am currently developing the Ultrasound Transceiver Application-Specific Integrated Circuit (ASIC) under the supervision of *[Prof. Man-Kay Law](https://ime.um.edu.mo/people/mklaw/)* and [*Prof. Chi-Seng Lam*](https://ime.um.edu.mo/people/cslam/) at the University of Macau.
 
-Also, I am currently developing the galvanically-powered swallowable/injectable implants under the supervision of [*Prof. Jun-Chau Chien](https://www2.eecs.berkeley.edu/Faculty/Homepages/jcchien.html)* at UC Berkeley. 
+Also, I am currently developing the galvanically-powered swallowable/injectable implants under the supervision of [*Prof. Jun-Chau Chien*](https://www2.eecs.berkeley.edu/Faculty/Homepages/jcchien.html) at UC Berkeley. 
 
-%%Example: editing a markdown file for a talk
-%%![Editing a markdown file for a talk](/images/editing-talk.png)
+Want to join our research group? 
+=======
+
+![Editing a markdown file for a talk](/images/editing-talk.png)
