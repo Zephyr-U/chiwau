@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zephyr, a UM Macao Fellow at the [Institute of Microelectronics (IME)](https://ime.um.edu.mo/), University of Macau && Postdoctoral Fellow (Visiting) at [Chien's Lab](https://chienlab-bioic.github.io/), UC Berkeley.
+Hi, I am Zephyr, a UM Macao Fellow at the [Institute of Microelectronics (IME)](https://ime.um.edu.mo/), University of Macau. 
+I am currently visiting [Chien's Lab](https://chienlab-bioic.github.io/) as a Postdoctoral Fellow at UC Berkeley.
 I specialize in the field of CMOS analog circuit design. My research primarily focuses on the precision analog circuit design and analog front-end circuit design for biomedical applications. [***Click here*](https://doi.org/10.1109/JSSC.2023.3294996)** to check my latest research.
 
 What was my recent project?
