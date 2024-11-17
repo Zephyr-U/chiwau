@@ -21,6 +21,5 @@ Also, I am currently developing the galvanically-powered swallowable/injectable 
 
 Want to join our research group? 
 =======
-We are currently seeking students pursuing an MPhil at IME, UM. We are looking for assertive and self-motivated candidates. If you are interested, please send me an email at zephyru@um.edu.mo
+We are currently seeking students pursuing an MPhil at IME, UM. We are looking for assertive and self-motivated candidates. If you are interested, please send me an email at [*zephyru@um.edu.mo*]()
 
-![Editing a markdown file for a talk](/images/editing-talk.png)
