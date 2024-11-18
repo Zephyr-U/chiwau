@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Electronics Engineering, University of Macau, China	08. 2019 ¡V 05. 2023
+* Ph.D in Electrical and Electronics Engineering, University of Macau, China	08. 2019 ¡V 05. 2023.
 * B.Sc in Electrical and Electronics Engineering, University of Macau, China	08. 2015 ¡V 06. 2019
 
 Professional Experience
