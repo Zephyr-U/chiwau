@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: single
 title: "Biography"
-permalink: /cv
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
